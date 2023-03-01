@@ -1,2 +1,6 @@
 This is first file
+<<<<<<< HEAD
 This is for testing
+=======
+This is second file
+>>>>>>> 3c9ddd77573fdaf107dac695ecb9e12974df76a4
